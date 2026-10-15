@@ -2,6 +2,9 @@
 
 # Hey, I'm Subrata Paul 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Student;Software+Developer;Reverse+Engineering+Enthusiast;Python+%7C+C%2B%2B+%7C+C%23;Building+Tools+%26+Learning+Every+Day)
+
+
 **B.Tech AI & ML Student · Software Developer · Technology Explorer**
 
 I enjoy building practical software, exploring application internals, and learning how systems work.
